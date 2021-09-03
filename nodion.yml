@@ -1,3 +1,4 @@
 nodion:
   php:
     version: 8.0
+    modules: ["common","bcmath","json"]
