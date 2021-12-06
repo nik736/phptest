@@ -1,0 +1,11 @@
+nodion:
+  env: php
+  version: 7.4
+  webserver: nginx
+  modules:
+    - common
+    - bcmath
+    - json
+    - mbstring
+    - tokenizer
+    - xml
